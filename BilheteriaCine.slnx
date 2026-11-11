@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cine.Cli/Cine.Cli.csproj" />
+    <Project Path="src/Cine.Core/Cine.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cine.Tests/Cine.Tests.csproj" />
+  </Folder>
+</Solution>
